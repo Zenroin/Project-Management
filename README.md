@@ -1,3 +1,13 @@
+
+-----
+
+
+--- THIS IS THE OLD VERSION OF THE PROGRAM CURRENTLY RECORDING APP WITH ANIMATIONS ---
+
+
+-----
+
+
 # 🏢 Enterprise Operations Management System (EOMS)
 
 [![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white)](https://www.php.net/)
